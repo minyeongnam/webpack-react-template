@@ -1,5 +1,5 @@
 import temp from '~/assets/svg/temp.svg';
-import { ReactComponent as TempComponents } from '~/assets/svg/temp2.svg?inline';
+import TempComponents from '~/assets/svg/temp2.svg?inline';
 
 const App = () => {
   return (
